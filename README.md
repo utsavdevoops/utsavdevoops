@@ -1,16 +1,71 @@
-## Hi there 👋
+Hi, I'm [Your Name] 👋
+DevOps Engineer | Cloud | Automation | CI/CD
 
-<!--
-**utsavdevoops/utsavdevoops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer passionate about building reliable, scalable, and automated infrastructure. I enjoy working with cloud platforms, containers, CI/CD pipelines, Infrastructure as Code, and observability.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Cloud: AWS | Azure | GCP
+
+🐳 Containers: Docker | Kubernetes
+
+🔄 CI/CD: Jenkins | GitHub Actions | GitLab CI
+
+🏗️ Infrastructure as Code: Terraform | Ansible
+
+🐧 OS: Linux
+
+📊 Monitoring: Prometheus | Grafana
+
+🔧 Version Control: Git | GitHub
+
+💻 Scripting: Bash | Python
+
+🚀 What I Work On
+
+Automating infrastructure and deployments
+
+Designing and maintaining CI/CD pipelines
+
+Containerizing applications with Docker
+
+Managing Kubernetes workloads
+
+Provisioning infrastructure using Infrastructure as Code
+
+Improving system reliability, scalability, and security
+
+Monitoring and troubleshooting production environments
+
+📌 Featured Projects
+
+🔹 Cloud Infrastructure Automation
+Infrastructure provisioning and configuration using Terraform and Ansible.
+
+🔹 CI/CD Pipeline
+Automated build, test, and deployment pipeline using GitHub Actions/Jenkins.
+
+🔹 Kubernetes Deployment
+Containerized application deployed and managed using Kubernetes.
+
+📈 Currently Learning
+
+Advanced Kubernetes
+
+Cloud Architecture
+
+DevSecOps
+
+Observability
+
+Platform Engineering
+
+📫 Connect With Me
+
+💼 LinkedIn: [Your LinkedIn]
+
+📧 Email: [Your Email]
+
+🌐 Portfolio: [Your Portfolio]
+
+⭐ Always learning, automating, and building.
